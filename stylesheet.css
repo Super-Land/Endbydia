@@ -1,0 +1,93 @@
+body{
+    width: 960px; 
+    text-align: center; 
+    border: 1px solid black;  
+    margin:auto; 
+    background-color: rgb(243, 243, 243);   
+}
+header{
+    font-size: 20px;
+    font-family: Arial Black;
+    margin-bottom: 20px;
+    padding-top: 5px;
+    background-color: rgb(0, 255, 0);
+}
+header img{
+    width: 70px;
+}
+hgroup{
+    font-family: Calibri;
+    color:rgb(0, 236, 253);
+}
+.menu li{
+    list-style: none;
+    padding:5px;
+    display: inline-block;
+    color: gray;
+}
+.cabecera h1{
+    font-size: 30px;
+    text-align: left;
+}
+.seccion{
+    margin: 20px;
+    width: 60%;
+    float:left;
+}
+.aside{
+    width: 30%;
+    float:left;
+    margin: 20px 0;
+}
+.aside blockquote{
+    border:1px solid black;
+}
+.pie{
+    clear: both;
+    font-size: 17px;
+    background-color: rgb(0, 47, 255);
+    color: rgb(255, 250, 250);
+    font-family: Calibri;
+    padding-bottom: 10px;
+}
+.pie img{
+    padding-top: 5px;
+    width: 40px;
+}
+article{
+    border:1px solid black;
+    padding:20px;
+    margin-bottom: 10px;
+    background-color: rgb(250, 228, 131);
+}
+article li{
+    text-align: left;
+}
+img{
+    display: inline-block;
+    width: 90px;
+}
+p img{
+    width: 30px;
+}
+span{
+    font-family: Arial Black;
+}
+nav hgroup{
+    color: rgb(255, 0, 55);
+}
+.Extrash1 h1{
+    color:rgb(0, 236, 253);
+}
+.Extras hgroup{
+    color: rgb(255, 0, 55);
+}
+.imagenes {
+    margin-left: 110px;   
+}
+.imagenes img{
+    padding-bottom: 200px;
+}
+.Super {
+    color:rgb(255, 145, 0);
+}
